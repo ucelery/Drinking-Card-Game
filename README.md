@@ -3,7 +3,7 @@ A template for drinking games
 
 # Susuka pero di Susuko cards
 - Just copy paste the text below in increments for safe pasting
-- There should be 93 cards total
+- There should be 84 cards total
 ```
 Magdecide ang grupo kung sino ang pinaka-malakas sa pulutan. Siya ang iinom ng two shots no chaser.; Magdecide ang grupo kung sino ang pinaka-maganda. Siya ang iinom.; Magbilang hanggang tatlo. Ang huling tumayo ay iinom ng 1 shot.; Mag acting ng isang scene sa movie. Unang makahula ay pipili ng iinom.; Sino ang bayani ng tirad pass battle noong 1899? Maghanap ka ng tutulong pag hindi niya din nasagot shot kayo.; Magbilang ng hanggang tatlo. Ang huling maglagay ng kamay sa lamesa ay iinom ng 1 shot.; Magdecide ang grupo kung sino ang pinaka-maraming kanta sa videoke. Siya ang iinom ng two shots.; Sige na pili ka na ng iinom. Isa lang ha.; Simula sayo, magbigay ng naging palabas ni Dwayne "The Rock" Johnson. Unang magkamali o umulit shot!;
 ```
